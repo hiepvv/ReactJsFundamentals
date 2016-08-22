@@ -19,6 +19,5 @@ Raven.config(sentryURL, {
     branch: _APP_INFO.branch,
   }
 }).install()
-console.log(window.thing.doesNotExist)
 
 ReactDOM.render(routes, document.getElementById('app'));
