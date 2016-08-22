@@ -1,5 +1,5 @@
 {
-  "name": "gh-battle",
+  "name": "",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,9 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "raven-js": "^3.5.1",
-    "react": "^0.14.6",
+    "react": "^0.14.8",
     "react-dom": "^0.14.6",
-    "react-router": "^2.0.0-rc5"
+    "react-router": "^2.7.0"
   },
   "devDependencies": {
     "babel-core": "^6.4.5",
